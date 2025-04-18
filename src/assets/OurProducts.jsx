@@ -101,7 +101,7 @@ export default function OurProducts() {
                         <Card.Body>
                             <Card.Title>{product.title}</Card.Title>
                             <Card.Text className='font-normal'>{product.price}</Card.Text>
-                            <Button className='rounded-full text-sm mt-4 bg-red-950 text-white'>BUY NOW -></Button>
+                            <Button className='rounded-full text-sm mt-4 bg-red-950 text-white'>BUY NOW -&gt</Button>
                         </Card.Body>
                     </Card>
                 ))}
