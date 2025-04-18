@@ -3,7 +3,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 // Importing images from assets folder
-import coffeeIcon from '/img/Coffee Icon 2.png';
+import coffeeIcon from '/img/Coffee_Icon_2.png';
 
 export default function KeyFeatures() {
   useEffect(() => {
